@@ -8,6 +8,7 @@ class Re1ApplicationTests {
 
 	@Test
 	void contextLoads() {
+		System.out.println("contextLoads....");
 	}
 
 }
